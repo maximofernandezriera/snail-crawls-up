@@ -4,7 +4,7 @@ https://www.codewars.com/kata/5b93fecd8463745630001d05
  - Clase y Solución
 
 ## Introducción
-El kata "Snail Crawls Up" de Codewars, un problema clásico de simulación matemática. El objetivo es calcular el número de días que una caracola tardará en alcanzar la cima de una columna, subiendo durante el día y deslizándose un poco hacia abajo durante la noche.
+El kata "Snail Crawls Up" de Codewars, un problema clásico de simulación matemática. El objetivo es calcular el número de días que un caracol tardará en alcanzar la cima de una columna, subiendo durante el día y deslizándose un poco hacia abajo durante la noche.
 
 ## Descripción del Problema
 Dados tres valores:
@@ -12,7 +12,7 @@ Dados tres valores:
 2. **Distancia que la caracola sube durante el día** (en metros).
 3. **Distancia que la caracola se desliza hacia abajo durante la noche** (en metros).
 
-El reto es calcular el número de días necesarios para que la caracola alcance o supere la altura de la columna.
+El reto es calcular el número de días necesarios para que el caracol alcance o supere la altura de la columna.
 
 ## Pseudocódigo
 ```plaintext
@@ -73,7 +73,3 @@ public class SnailClimb {
     }
 }
 ```
-
-Esta solución en Java sigue la lógica del pseudocódigo para calcular el número de días que la caracola tarda en alcanzar la cima, utilizando un bucle `while`.
-
----
